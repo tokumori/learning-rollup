@@ -1,3 +1,6 @@
+// Import styles (automatically injected into <head>).
+import './styles/styles.css';
+
 // Import a couple modules for testing.
 import { sayHelloTo } from './modules/mod1';
 import addArray from './modules/mod2';
